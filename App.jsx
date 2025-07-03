@@ -1,12 +1,12 @@
 import React from 'react'
-import Enough from './components/Enough.jsx';
-
+import OneTimeCharge from './components/OneTimeCharge'
 function App() {
   return (
     <div>
-      <Enough />
+      <OneTimeCharge />
     </div>
   )
 }
 
 export default App
+ 
