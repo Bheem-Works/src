@@ -1,9 +1,9 @@
 import React from 'react'
-import OneTimeCharge from './components/OneTimeCharge'
+import July_7 from './journalEntry/July_7'
 function App() {
   return (
     <div>
-      <OneTimeCharge />
+      <July_7 />
     </div>
   )
 }
