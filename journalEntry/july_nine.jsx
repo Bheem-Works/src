@@ -1,6 +1,6 @@
 import React from 'react'
 
-function july_nine() {
+function July_Nine() {
   return (
     <div>
       <div className="start">
@@ -40,4 +40,4 @@ function july_nine() {
   )
 }
 
-export default july_nine
+export default July_Nine
